@@ -2,7 +2,7 @@
   Motonitor - HackUPC 2022
 </h1>
 
-<p align="center">This is a web user fronted software that lets the user calculate an estimated price of their motorbikes from home, letting them have a preview before starting contact with any agent, or selling it for a worse price. <br><br>This project makes the calculation based on a <b>Machine Learning System</b> that takes data from different motorbikes (previously extracted from second-hand motorbike online shops with our tool Motonitor-Deep-Scrapper) and uses it to make a learning model that will predict with a pretty good accuracy (82% scored) an estimated price for the motorcycle.</p>
+<p align="center">This is a web user fronted software that lets the user calculate an estimated price of their motorbikes from home, letting them have a preview before starting contact with any agent, or selling it for a worse price. <br><br>This project makes the calculation based on a <b>Machine Learning System</b> that takes data from different motorbikes (previously extracted from second-hand motorbike online shops with our tool <a href="https://github.com/KuroHaka/motonitor-deep-scrapper">Motonitor-Deep-Scrapper</a>) and uses it to make a learning model that will predict with a pretty good accuracy (82% scored) an estimated price for the motorcycle.</p>
 
 ## ⚡️ Quick start
 
