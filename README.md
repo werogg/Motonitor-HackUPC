@@ -46,6 +46,11 @@ The scrapped data used to train the ML-ModelS.
 
 A little API to connect with our front-end.
 
+### `Motonitor_ML.ipynb`
+
+A Jupyter Notebook used for internal purposes on calculating the best scores for our Machine Learning Models and analyzing them with graphics.
+
+
 ## ⭐️ Screenshot
 ![motonitor-screenshot](https://i.imgur.com/2W8yzeK.png)
 
