@@ -50,6 +50,15 @@ A little API to connect with our front-end.
 
 A Jupyter Notebook used for internal purposes on calculating the best scores for our Machine Learning Models and analyzing them with graphics.
 
+## 📝 ML-Model Analysis and Scores
+In the development of our software we did some analysis of the data that we were getting from our Machine Learning Models.
+
+Our score calculation results:<br><br>
+![motonitor-score](https://user-images.githubusercontent.com/6135390/166442345-5eaa0bdd-e122-4874-a0c6-4fad30d3efd9.png)
+
+Motonitor's linear regression line:<br><br>
+![motonitor-linear-regression-line](https://i.imgur.com/0QCTkpz.png)
+
 
 ## ⭐️ Screenshot
 ![motonitor-screenshot](https://i.imgur.com/2W8yzeK.png)
